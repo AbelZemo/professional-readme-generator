@@ -16,7 +16,7 @@
 
 # Installation
 
-first of all you need to have Node invironment in your local machine to run javascript file
+ first of all you need to have Node invironment in your local machine to run javascript file
 
 step 1 : clone my repository to your local machine
 
@@ -59,4 +59,4 @@ step 11: that's it !
 
 **Done!  congratulations**
 
-walkthrough video link :
+walkthrough video link : https://drive.google.com/file/d/1okCAnEfGkmK88ONEtmvFiwcee3S1-XlW/view

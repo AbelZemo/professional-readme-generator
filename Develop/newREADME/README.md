@@ -21,9 +21,9 @@
 
   This project is all about professional README file generator. This project will help a developer to generate a README without having to worry about applying proper mark down syntax. One problem with most projects is that the README is not clear for a new developer who wants to use the project. This could be because the problem of developer who pushs the source code and doesn't want to include it or the developer hasn't mastered down the proper syntax to creating a README. Also  possibly the developer hasn't a good idea of what to include with the README. This README file generator will allow the developer to answer a series of specific questions and create a professional complete README based on the developer's response. It will take a couple minutes and provide the developer with the ability to make their project complete and more professional, increasing the likely hood that someone will want to use their app over similar apps without a README.
 
-  beacuse I have given as an assignment
+  Because I have given as assignment
 
-  someone can use my project just after he/she clone my project 
+  He/She need has to follow my instructions
 
   ## [Installation](#table-of-contents)
 
@@ -52,12 +52,12 @@
 
   ## [Tests](#table-of-contents)
 
-    To test this app, open up the file in VS Code. Open the terminal, change directory into the root folder 'professional-readme-generator’, and run ‘node Develop/index.js’. Answer the prompts and view the preview of the ‘README.md’ file in the ‘newREADME’ folder.
+  To test this app, open up the file in VS Code. Open the terminal, change directory into the root folder 'professional-readme-generator’, and run ‘node Develop/index.js’. Answer the prompts and view the preview of the ‘README.md’ file in the ‘newREADME’ folder.
 
   ## [Questions](#table-of-contents)
 
   Please contact me using the following links:
 
-  [GitHub](https://github.com/abelZemo)
+  [GitHub](https://github.com/AbelZemo)
 
-  [Email: abelzemo@gmail.com](mailto:abelzemo@gmail.com)
+  [Email: abelzemot@gmail.com](mailto:abelzemot@gmail.com)
